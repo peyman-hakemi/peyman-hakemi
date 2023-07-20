@@ -6,7 +6,13 @@
 
 ## 🌐 My Portfolio:
 
-[![Portfolio](https://i.ibb.co/VSZH7H7/Default-P-letter-with-transparent-background-0-f7468140-1103-43d1-b743-d8ce759d3977-0.png)](https://portfolio-peyman.vercel.app/)
+<p align="left">
+  <a href="https://portfolio-peyman.vercel.app/">
+    <img src="https://i.ibb.co/VSZH7H7/Default-P-letter-with-transparent-background-0-f7468140-1103-43d1-b743-d8ce759d3977-0.png" alt="Portfolio" width="30" height="30">
+    Peyman Portfolio
+  </a>
+</p>
+
 
 ## 🌐 Socials:
 

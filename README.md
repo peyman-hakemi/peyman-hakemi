@@ -2,7 +2,7 @@
 
 # 💫 About Me:
 
-🔭 I’m currently working with a startup in Germany<br>🌱 I’m currently learning and expanding my knowledge in frontend<br>💬 Ask me about, React Native, React, Javascript, typescript, redux and everything related to mobile and frontend
+🔭 I’m currently working with a startup in Netherlands<br>🌱 I’m currently learning and expanding my knowledge in frontend<br>💬 Ask me about, React Native, React, Javascript, typescript, redux and everything related to mobile and frontend
 
 ## 🌐 My Portfolio:
 
